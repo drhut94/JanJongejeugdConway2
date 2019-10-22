@@ -1,0 +1,4 @@
+-----CONWAY INSTRUCTIONS----
+Click cells to enable/disable them
+Click + move mouse to rotate camera
+Mouse scroll wheel to zoom
